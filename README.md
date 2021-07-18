@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is Guan-Ting Su.<br>
+I'm a graduate student at National Taiwan Normal University, studying Physics and Astronomy.<br>
+Despite my major, I realized that front-end development is actually what I passionate about.<br>
+Therefore, I started learning react-native since Oct, 2020.<br>
+I'm also learning other web developing skills like html, css, react.
+
+
+![roto93's github activity graph](https://activity-graph.herokuapp.com/graph?username=roto93&theme=github)
+
+
 <!--
 **roto93/roto93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
