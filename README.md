@@ -3,8 +3,8 @@
 My name is Guan-Ting Su.<br>
 I'm a graduate student at National Taiwan Normal University, studying Physics and Astronomy.<br>
 Despite my major, I realized that front-end development is actually what I passionate about.<br>
-Therefore, I started learning react-native since Oct, 2020.<br>
-I'm also learning other web developing skills like html, css, react.
+Therefore, I started learning React Native since Oct, 2020.<br>
+I'm also learning other web developing skills like HTML, CSS, React.
 
 
 ![roto93's github activity graph](https://activity-graph.herokuapp.com/graph?username=roto93&theme=github)
@@ -13,37 +13,47 @@ I'm also learning other web developing skills like html, css, react.
 
 <table align='center' width="100">
 <tr>
-    <td align='center' width="190">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="50">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
-    </td>
+    <!--   React-Native   -->
     <td align='center' width="190">
         <img src="https://i.imgur.com/fVmELOJ.png" width="180">
     </td>
+    <!--   React   -->
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
+    <!--  Node.js -->
     <td align='center' width="190">
-        <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="90">
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
-</tr>
-<tr>
+    <!--   Python   -->
+    <td align='center'>
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" width="50">
+    </td>
+    <!--   Firebase   -->
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" width="150">
     </td>
+</tr>
+<tr>
+    <!--   HTML   -->
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
     </td>
+    <!--   CSS   -->
     <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
     </td>
+     <!--   Javascript   -->
+    <td align='center' width="190">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="50">
+    </td>
+    <!--   Git   -->
+    <td align='center' width="190">
+        <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="90">
+    </td>
+    <!--   VSCode   -->
     <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="50">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50">
     </td>
 </tr>
 </table>
