@@ -14,23 +14,23 @@ I'm also learning other web developing skills like HTML, CSS, React.
 <table align='center' width="100">
 <tr>
     <!--   React-Native   -->
-    <td align='center' width="190">
+    <td align='center' width="180">
         <img src="https://i.imgur.com/fVmELOJ.png" width="180">
     </td>
     <!--   React   -->
-    <td align='center' width="190">
+    <td align='center' width="180">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
     <!--  Node.js -->
-    <td align='center' width="190">
+    <td align='center' width="180">
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
     <!--   Python   -->
-    <td align='center'>
+    <td align='center'  width="180">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" width="50">
     </td>
     <!--   Firebase   -->
-    <td align='center'>
+    <td align='center'  width="180">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" width="150">
     </td>
 </tr>
@@ -44,11 +44,11 @@ I'm also learning other web developing skills like HTML, CSS, React.
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
     </td>
      <!--   Javascript   -->
-    <td align='center' width="190">
+    <td align='center'>
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="50">
     </td>
     <!--   Git   -->
-    <td align='center' width="190">
+    <td align='center'>
         <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="90">
     </td>
     <!--   VSCode   -->
