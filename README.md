@@ -56,6 +56,28 @@ I'm also learning other web developing skills like HTML, CSS, React.
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="50">
     </td>
 </tr>
+<tr>
+    <!--   Flask   -->
+    <td align='center'>
+        <img src="https://svg2raster.fileformat.info/vlz.jsp?svg=%2Flogos%2Fpocoo_flask%2Fpocoo_flask-ar21.svg" width="70">
+    </td>
+    <!--   PostgreSQL   -->
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="60">
+    </td>
+     <!--   Heroku   -->
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" width="120">
+    </td>
+    <!--   Expo   -->
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg" width="120">
+    </td>
+    <!--   Figma   -->
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50">
+    </td>    
+</tr>
 </table>
 
 
