@@ -34,6 +34,30 @@ I'm also learning other web developing skills like HTML, CSS, React.
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" width="150">
     </td>
 </tr>
+    
+<tr>
+    <!--   Expo   -->
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg" width="120">
+    </td>
+    <!--   Flask   -->
+    <td align='center'>
+        <img src="https://svg2raster.fileformat.info/vlz.jsp?svg=%2Flogos%2Fpocoo_flask%2Fpocoo_flask-ar21.svg" width="110">
+    </td>
+    <!--   PostgreSQL   -->
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="60">
+    </td>
+     <!--   Heroku   -->
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" width="120">
+    </td>
+    <!--   stylus  -->
+    <td align='center'>
+        <img src="https://svg2raster.fileformat.info/vlz.jsp?svg=%2Flogos%2Fstylus-lang%2Fstylus-lang-ar21.svg" width="110">
+    </td>
+</tr>
+    
 <tr>
     <!--   HTML   -->
     <td align='center'>
@@ -57,29 +81,13 @@ I'm also learning other web developing skills like HTML, CSS, React.
     </td>
 </tr>
 <tr>
-    <!--   Flask   -->
-    <td align='center'>
-        <img src="https://svg2raster.fileformat.info/vlz.jsp?svg=%2Flogos%2Fpocoo_flask%2Fpocoo_flask-ar21.svg" width="70">
-    </td>
-    <!--   PostgreSQL   -->
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="60">
-    </td>
-     <!--   Heroku   -->
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" width="120">
-    </td>
-    <!--   Expo   -->
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg" width="120">
-    </td>
     <!--   Figma   -->
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50">
     </td>    
+
 </tr>
 </table>
-
 
 <!--
 **roto93/roto93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
