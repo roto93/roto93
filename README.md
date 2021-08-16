@@ -7,8 +7,6 @@ Therefore, I started learning React Native since Oct, 2020.<br>
 I'm also learning other web developing skills like HTML, CSS, React.
 
 
-![roto93's github activity graph](https://activity-graph.herokuapp.com/graph?username=roto93&theme=github)
-
 <h2 align='center'><b>Languages and Tools</b></h2>
 
 <table align='center' width="100">
@@ -88,6 +86,8 @@ I'm also learning other web developing skills like HTML, CSS, React.
 
 </tr>
 </table>
+
+![roto93's github activity graph](https://activity-graph.herokuapp.com/graph?username=roto93&theme=github)
 
 <!--
 **roto93/roto93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
