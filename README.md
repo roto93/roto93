@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-My name is Guan-Ting Su.<br>
-I'm a graduate student at National Taiwan Normal University, studying Physics and Astronomy.<br>
+I'm Guan-Ting Su, a graduate student at National Taiwan Normal University, studying Physics and Astronomy.<br>
 Despite my major, I realized that front-end development and UIUX are also what I passionate about.<br>
 Therefore, I started learning React Native since Oct, 2020.<br>
 I'm also learning other web developing Languages like React, TypeScript.<br>
