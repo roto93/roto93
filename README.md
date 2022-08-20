@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 I'm Guan-Ting Su, a graduate student at National Taiwan Normal University, studying Physics and Astronomy.<br>
-Despite my major, I realized that front-end development and UIUX are also what I passionate about.<br>
+Despite my major, I realized that front-end development and UI/UX are what I passionate about.<br>
 Therefore, I started learning React Native since Oct, 2020.<br>
-I'm also learning other web developing Languages like React, TypeScript.<br>
-Currently working on a JPY-to-NTD app with my friend who is an UI designer.
+I'm also learning other web developing skills like React, TypeScript.<br>
+Currently working on a JPY-to-NTD app with my friend who is an UI/UX designer.
 
 
 <h2 align='center'><b>Languages and Tools</b></h2>
