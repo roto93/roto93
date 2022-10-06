@@ -69,25 +69,24 @@ Currently working on a JPY-to-NTD app with my friend who is an UI/UX designer.
     <td align='center'>
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="50">
     </td>
-    <!--   TypeScript   -->
-    <td align='center'>
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript.svg" width="50">
-    </td>
     <!--   Git   -->
     <td align='center'>
         <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="90">
     </td>
-</tr>
-<tr>
     <!--   VSCode   -->
     <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="50">
     </td>
+</tr>
+<tr>
     <!--   Figma   -->
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50">
     </td>    
-
+    <!--   TypeScript   -->
+    <!-- <td align='center'>
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript.svg" width="50">
+    </td> -->
 </tr>
 </table>
 
