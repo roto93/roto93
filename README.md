@@ -65,9 +65,9 @@ Currently working on a JPY-to-NTD app with my friend who is an UI/UX designer.
     <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
     </td>
-     <!--   JavaScript   -->
+     <!--   TypeScript   -->
     <td align='center'>
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="50">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript.svg" width="50">
     </td>
     <!--   Git   -->
     <td align='center'>
@@ -89,8 +89,6 @@ Currently working on a JPY-to-NTD app with my friend who is an UI/UX designer.
     </td> -->
 </tr>
 </table>
-
-![roto93's github activity graph](https://activity-graph.herokuapp.com/graph?username=roto93&theme=github)
 
 <!--
 **roto93/roto93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
