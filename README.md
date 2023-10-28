@@ -71,11 +71,11 @@ Currently working on a JPY-to-NTD app with my friend who is an UI/UX designer.
     </td>
     <!--   Git   -->
     <td align='center'>
-        <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="90">
+        <img src="https://github.com/detain/svg-logos/blob/master/svg/g/git.svg" width="90">
     </td>
     <!--   VSCode   -->
     <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="50">
+        <img src="https://github.com/detain/svg-logos/blob/master/svg/v/visual-studio-code-1.svg" width="50">
     </td>
 </tr>
 <tr>
