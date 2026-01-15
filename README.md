@@ -1,10 +1,16 @@
 ### Hi there 👋
 
-I'm Guan-Ting Su, a graduate student at National Taiwan Normal University, studying Physics and Astronomy.<br>
+I'm Guan-Ting Su, a Senior Frontend Engineer with 5 years of experience.<br>
+Started from Physics & Astronomy, fell in love with frontend development since 2020.<br>
+Now specializing in Web3/DeFi applications, Design Systems, and bridging design with engineering.<br>
+I care about scalable architecture, performance, and making complex things user-friendly.<br>
+Currently working on a JPY-to-NTD app with my friend who is an UI/UX designer.
+
+<!-- I'm Guan-Ting Su, a graduate student at National Taiwan Normal University, studying Physics and Astronomy.<br>
 Despite my major, I realized that front-end development and UI/UX are what I passionate about.<br>
 Therefore, I started learning React Native since Oct, 2020.<br>
 I'm also learning other web developing skills like React, TypeScript.<br>
-Currently working on a JPY-to-NTD app with my friend who is an UI/UX designer.
+Currently working on a JPY-to-NTD app with my friend who is an UI/UX designer. -->
 
 
 <h2 align='center'><b>Languages and Tools</b></h2>
@@ -27,9 +33,9 @@ Currently working on a JPY-to-NTD app with my friend who is an UI/UX designer.
     <td align='center'  width="180">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" width="50">
     </td>
-    <!--   Firebase   -->
+    <!--   Next.js   -->
     <td align='center'  width="180">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" width="150">
+        <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21~bgwhite.svg" width="150">
     </td>
 </tr>
     
@@ -40,15 +46,15 @@ Currently working on a JPY-to-NTD app with my friend who is an UI/UX designer.
     </td>
     <!--   Flask   -->
     <td align='center'>
-        <img src="https://svg2raster.fileformat.info/vlz.jsp?svg=%2Flogos%2Fpocoo_flask%2Fpocoo_flask-ar21.svg" width="110">
+        <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" width="110">
     </td>
     <!--   PostgreSQL   -->
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="60">
     </td>
-     <!--   Heroku   -->
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" width="120">
+    <!--   Firebase   -->
+    <td align='center'  width="180">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" width="150">
     </td>
     <!--   stylus  -->
     <td align='center'>
@@ -83,10 +89,6 @@ Currently working on a JPY-to-NTD app with my friend who is an UI/UX designer.
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50">
     </td>    
-    <!--   TypeScript   -->
-    <!-- <td align='center'>
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript.svg" width="50">
-    </td> -->
 </tr>
 </table>
 
