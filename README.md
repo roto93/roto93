@@ -43,7 +43,7 @@ Cross-platform travel budgeting app with ~400 monthly active users. Features cur
 
 
 #### ⚡ Taiwan Astronomy Network
-Redesigned a legacy HTML site for Taiwan's astronomy research community. Built a CMS (React + Flask + PostgreSQL) that reduced content update time from ~10 minutes to 30 seconds. Currently offline for maintenance by subsequent
+Redesigned a legacy HTML site using Vite + React for Taiwan's astronomy research community. Built a CMS (React + Flask + PostgreSQL) that reduced content update time from ~10 minutes to 30 seconds. Currently offline for maintenance by subsequent
 maintainers; source and design on GitHub / [Behance](https://www.behance.net/gallery/134629805/Full-Stack-React-Project-TAN-Website). <br><br>
 <img width=300 height=auto src="https://i.imgur.com/kfhxG5X.jpg"/>
 
