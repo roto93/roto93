@@ -4,105 +4,26 @@ I'm Guan-Ting Su, a Senior Frontend Engineer with 5 years of experience.<br>
 Started from Physics & Astronomy, fell in love with frontend development since 2020.<br>
 Now specializing in Web3/DeFi applications, Design Systems, and bridging design with engineering.<br>
 I care about scalable architecture, performance, and making complex things user-friendly.<br>
-Currently working on a JPY-to-NTD app with my friend who is an UI/UX designer.
 
-<!-- I'm Guan-Ting Su, a graduate student at National Taiwan Normal University, studying Physics and Astronomy.<br>
-Despite my major, I realized that front-end development and UI/UX are what I passionate about.<br>
-Therefore, I started learning React Native since Oct, 2020.<br>
-I'm also learning other web developing skills like React, TypeScript.<br>
-Currently working on a JPY-to-NTD app with my friend who is an UI/UX designer. -->
+### Tech Stack
+|   |   |
+| - | - |
+|**Frontend**  | TypeScript · React · Next.js · React Native · Stylus CSS |
+|**Data**      | Tanstack Query · Jotai · Recoil · Redux · RESTful API |
+|**Web3**      | Viem · Wagmi · Ethers.js · Starknet.js · RainbowKit |
+|**Design**    | Figma · Design Systems · Design Tokens · UI/UX Prototyping |
+|**Backend**   | Supabase · Flask · PostgreSQL |
+|**Tools**     | Vitest · Cypress · GitHub Actions · Docker · Claude Code |
 
+### Featured Projects
+#### 📅 [react-native-neat-date-picker](https://www.npmjs.com/package/react-native-neat-date-picker)
+Open-source React Native date picker with 60+ GitHub stars and hundreds of weekly downloads. Actively maintained with community issue resolution and feature development.
 
-<h2 align='center'><b>Languages and Tools</b></h2>
+#### 🇯🇵 JapanGo App — [Google Play](https://play.google.com/store/apps/details?id=com.roto93.JPY_App) · [App Store](https://apps.apple.com/us/app/japan-go-%E6%97%A5%E6%9C%AC%E8%B3%BC/id6443752010)
+Cross-platform travel budgeting app with ~400 monthly active users. Features currency conversion, shopping cart, and expense tracking. Recently launched a Pro plan as monetization. Collaborated closely with a UI/UX designer on user flow optimization.
 
-<table align='center' width="100">
-<tr>
-    <!--   React-Native   -->
-    <td align='center' width="180">
-        <img src="https://i.imgur.com/fVmELOJ.png" width="180">
-    </td>
-    <!--   React   -->
-    <td align='center' width="180">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-    </td>
-    <!--  Node.js -->
-    <td align='center' width="180">
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
-    </td>
-    <!--   Python   -->
-    <td align='center'  width="180">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" width="50">
-    </td>
-    <!--   Next.js   -->
-    <td align='center'  width="180">
-        <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21~bgwhite.svg" width="150">
-    </td>
-</tr>
-    
-<tr>
-    <!--   Expo   -->
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg" width="120">
-    </td>
-    <!--   Flask   -->
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" width="110">
-    </td>
-    <!--   PostgreSQL   -->
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="60">
-    </td>
-    <!--   Firebase   -->
-    <td align='center'  width="180">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" width="150">
-    </td>
-    <!--   stylus  -->
-    <td align='center'>
-        <img src="https://svg2raster.fileformat.info/vlz.jsp?svg=%2Flogos%2Fstylus-lang%2Fstylus-lang-ar21.svg" width="110">
-    </td>
-</tr>
-    
-<tr>
-    <!--   HTML   -->
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
-    </td>
-    <!--   CSS   -->
-    <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
-    </td>
-     <!--   TypeScript   -->
-    <td align='center'>
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript.svg" width="50">
-    </td>
-    <!--   Git   -->
-    <td align='center'>
-        <img src="https://github.com/detain/svg-logos/blob/master/svg/g/git.svg" width="90">
-    </td>
-    <!--   VSCode   -->
-    <td align='center'>
-        <img src="https://github.com/detain/svg-logos/blob/master/svg/v/visual-studio-code-1.svg" width="50">
-    </td>
-</tr>
-<tr>
-    <!--   Figma   -->
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50">
-    </td>    
-</tr>
-</table>
+#### 🏦 [Vault Platform](https://vault.teahouse.finance)
+Multi-strategy DeFi asset management interface backed by Pantera Capital. Architected a unified frontend supporting 3 vault types (Managed, Permissionless, Portfolio) across EVM and CairoVM chains, with a deposit/withdrawal abstraction layer that enables seamless multi-asset flows.
 
-<!--
-**roto93/roto93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ⚡ [Tea-REX](https://app.trex.trade)
+On-chain leverage trading interface on Sei Network (project in wind-down; core trading UI no longer publicly accessible). Built real-time price feeds, position lifecycle management, dynamic margin health visualization, and gamified reward campaigns to drive user retention.
