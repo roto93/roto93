@@ -5,6 +5,8 @@ Started from Physics & Astronomy, fell in love with frontend development since 2
 Now specializing in Web3/DeFi applications, Design Systems, and bridging design with engineering.<br>
 I care about scalable architecture, performance, and making complex things user-friendly.<br>
 
+---
+
 ### Tech Stack
 |   |   |
 | - | - |
@@ -15,15 +17,29 @@ I care about scalable architecture, performance, and making complex things user-
 |**Backend**   | Supabase · Flask · PostgreSQL |
 |**Tools**     | Vitest · Cypress · GitHub Actions · Docker · Claude Code |
 
+---
+
 ### Featured Projects
 #### 📅 [react-native-neat-date-picker](https://www.npmjs.com/package/react-native-neat-date-picker)
-Open-source React Native date picker with 60+ GitHub stars and hundreds of weekly downloads. Actively maintained with community issue resolution and feature development.
+Open-source React Native date picker with 60+ GitHub stars and hundreds of weekly downloads. Actively maintained with community issue resolution and feature development. <br><br>
+<img width="300" height="auto" alt="rn-neat-date-picker" src="https://github.com/user-attachments/assets/2bc9285a-6fc9-4ada-88d5-325a34f754b0" />
+
 
 #### 🇯🇵 JapanGo App — [Google Play](https://play.google.com/store/apps/details?id=com.roto93.JPY_App) · [App Store](https://apps.apple.com/us/app/japan-go-%E6%97%A5%E6%9C%AC%E8%B3%BC/id6443752010)
-Cross-platform travel budgeting app with ~400 monthly active users. Features currency conversion, shopping cart, and expense tracking. Recently launched a Pro plan as monetization. Collaborated closely with a UI/UX designer on user flow optimization.
+Cross-platform travel budgeting app with ~400 monthly active users. Features currency conversion, shopping cart, and expense tracking. Recently launched a Pro plan as monetization. Collaborated closely with a UI/UX designer on user flow optimization. <br><br>
+<img width="400" height="auto" alt="宣傳圖" src="https://github.com/user-attachments/assets/1f3413f2-d461-4fad-a23e-d7e91127c8bd" />
+
 
 #### 🏦 [Vault Platform](https://vault.teahouse.finance)
-Multi-strategy DeFi asset management interface backed by Pantera Capital. Architected a unified frontend supporting 3 vault types (Managed, Permissionless, Portfolio) across EVM and CairoVM chains, with a deposit/withdrawal abstraction layer that enables seamless multi-asset flows.
+Multi-strategy DeFi asset management interface backed by Pantera Capital. Architected a unified frontend supporting 3 vault types (Managed, Permissionless, Portfolio) across EVM and CairoVM chains, with a deposit/withdrawal abstraction layer that enables seamless multi-asset flows. <br><br>
+<img width="400" height="auto" alt="Vault_Home_Page" src="https://github.com/user-attachments/assets/ff19772e-0166-4ce4-bf03-1cc9df794a00" />
+<img width="400" height="auto" alt="Vault_Strategy_Page" src="https://github.com/user-attachments/assets/6e97ee3f-6073-4491-8d14-dee444654821" />
+
 
 #### ⚡ [Tea-REX](https://app.trex.trade)
-On-chain leverage trading interface on Sei Network (project in wind-down; core trading UI no longer publicly accessible). Built real-time price feeds, position lifecycle management, dynamic margin health visualization, and gamified reward campaigns to drive user retention.
+On-chain leverage trading interface on Sei Network (project in wind-down; core trading UI no longer publicly accessible). Built real-time price feeds, position lifecycle management, dynamic margin health visualization, and gamified reward campaigns to drive user retention. <br><br>
+<img width="400" height="auto" alt="TeaRex_Trade_Page" src="https://github.com/user-attachments/assets/569ed485-b7d8-457d-b09a-cabad66a9dad" />
+
+#### ⚡ Taiwan Astronomy Network
+Redesigned a legacy HTML site for Taiwan's astronomy research community. Built a CMS (React + Flask + PostgreSQL) that reduced content update time from ~10 minutes to 30 seconds. Currently offline; source and design on GitHub / Behance. <br><br>
+<img width=300 height=auto src="https://i.imgur.com/kfhxG5X.jpg"/>
