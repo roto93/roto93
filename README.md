@@ -53,6 +53,19 @@ responsive breakpoints, and asset management in Figma before implementation.
 <img width="300" height="auto" alt="HighTable NFT Landing" src="https://github.com/user-attachments/assets/647cb083-e46e-4796-861c-eb6957a60d9a" />
 
 
+#### 🧠 [G-Studio — Smart RFQ Platform](https://odemnexus.com/) (B2B Tool)
+
+AI-powered Request for Quotation collaboration platform for international trade teams. Built with React + TypeScript + Vite, backed by a hybrid Supabase / custom backend architecture. Currently in closed beta.
+
+- **AI UI Integration**  —  Refined AI-generated component drafts into production-ready interfaces across the RFQ generation flow, inline editing, AI chat, and credit monitoring
+- **Backend Migration**  —  Incrementally migrated Supabase Edge Function mocks to a live backend API (file storage, folder navigation, RFQ CRUD, project management) with zero UX regression
+- **DX & Tooling Setup**  —  Configured Husky + lint-staged, bootstrapped a 4-language i18n system (500+ keys, TypeScript-enforced), and set up Claude Code configuration for both engineers and a non-engineer PM to iterate using AI tooling
+- **Analytics Integration**  —  Wired up GTM, GA4, and Microsoft Clarity for event tracking and session recording; used primarily for debugging user-reported issues and tracing unexpected UI behavior
+
+<img width="400" height="auto" alt="rfq-tool-1" src="https://github.com/user-attachments/assets/a5833c6e-fea7-4d51-ad26-4c8999b41fbf" />
+<img width="400" height="auto" alt="rfq-tool-2" src="https://github.com/user-attachments/assets/f5136bc0-2b37-43ce-8d18-150bdfc8f632" />
+
+
 #### 📅 [react-native-neat-date-picker](https://www.npmjs.com/package/react-native-neat-date-picker)
 Open-source React Native date picker with 60+ GitHub stars and hundreds of weekly downloads. Actively maintained with community issue resolution and feature development. <br><br>
 <img width="300" height="auto" alt="rn-neat-date-picker" src="https://github.com/user-attachments/assets/2bc9285a-6fc9-4ada-88d5-325a34f754b0" />
