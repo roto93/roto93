@@ -46,9 +46,9 @@ Three additional products built within the Teahouse Finance ecosystem.
 
 - **[HighTable NFT Landing](https://ht.teahouse.finance/)** — Organized Figma specs, then delivered a pixel-perfect implementation.
   
-<img width="300" height="auto" alt="Teahouse Point System" src="https://github.com/user-attachments/assets/35e3f0b9-1396-4066-bcaf-29740809b9ca" />
-<img width="300" height="auto" alt="Teahouse Official Site" src="https://github.com/user-attachments/assets/f7b1a305-83f7-4065-beea-02630cf65474" />
-<img width="300" height="auto" alt="HighTable NFT Landing" src="https://github.com/user-attachments/assets/647cb083-e46e-4796-861c-eb6957a60d9a" />
+<img width="250" height="auto" alt="Teahouse Point System" src="https://github.com/user-attachments/assets/35e3f0b9-1396-4066-bcaf-29740809b9ca" />
+<img width="250" height="auto" alt="Teahouse Official Site" src="https://github.com/user-attachments/assets/f7b1a305-83f7-4065-beea-02630cf65474" />
+<img width="250" height="auto" alt="HighTable NFT Landing" src="https://github.com/user-attachments/assets/647cb083-e46e-4796-861c-eb6957a60d9a" />
 
 
 
