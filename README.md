@@ -37,7 +37,7 @@ Open-source React Native date picker with 60+ GitHub stars and hundreds of weekl
 <img width="300" height="auto" alt="rn-neat-date-picker" src="https://github.com/user-attachments/assets/2bc9285a-6fc9-4ada-88d5-325a34f754b0" />
 
 
-#### 🇯🇵 JapanGo App — [Google Play](https://play.google.com/store/apps/details?id=com.roto93.JPY_App) · [App Store](https://apps.apple.com/us/app/japan-go-%E6%97%A5%E6%9C%AC%E8%B3%BC/id6443752010)
+#### 🇯🇵 JapanGo App — [Google Play](https://play.google.com/store/apps/details?id=com.roto93.JPY_App) · [App Store](https://apps.apple.com/us/app/japan-go-%E6%97%A5%E6%9C%AC%E8%B3%BC/id6443752010) · [Portfolio](https://www.cake.me/portfolios/japango)
 Cross-platform travel budgeting app with ~400 monthly active users. Features currency conversion, shopping cart, and expense tracking. Recently launched a Pro plan as monetization. Collaborated closely with a UI/UX designer on user flow optimization. <br><br>
 <img width="400" height="auto" alt="宣傳圖" src="https://github.com/user-attachments/assets/1f3413f2-d461-4fad-a23e-d7e91127c8bd" />
 
